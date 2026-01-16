@@ -1,4 +1,4 @@
-package Revision;
+package Week1.Revision;
 
 import java.util.Scanner;
 
