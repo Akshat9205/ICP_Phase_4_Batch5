@@ -30,14 +30,10 @@ focused on concept clarity, pattern mastery, and interview readiness.
 ### 📌 Overview
 Week 1 focused on strengthening **core problem-solving fundamentals** through a balanced mix of **revision problems** and **challenge-level questions**.
 
----
-
 ### 📊 Problem Distribution
 - **Total Problems Solved:** 12  
 - **Revision Problems:** 6  
 - **Challenge Problems:** 6  
-
----
 
 ### 🔁 Revision Problems
 - 3Sum  
@@ -49,8 +45,6 @@ Week 1 focused on strengthening **core problem-solving fundamentals** through a 
 
 > **Focus:** Arrays, searching, mathematical logic, and optimization techniques.
 
----
-
 ### ⚔️ Challenge Problems
 - ADA and Fence *(SPOJ)*  
 - Ehab Fails to Be Thanos *(Codeforces)*  
@@ -58,10 +52,6 @@ Week 1 focused on strengthening **core problem-solving fundamentals** through a 
 - Music in Car *(Codeforces)*  
 - Remove the Substring *(Easy Version – Codeforces)*  
 - SHINCHARD – Minimum Time to Cross the Bridge  
-
-> **Focus:** Edge cases, greedy logic, constraints, and efficiency.
-
----
 
 ### 🎯 Learning Outcomes
 ✔ Revised core algorithmic concepts  
@@ -75,8 +65,6 @@ Week 1 focused on strengthening **core problem-solving fundamentals** through a 
 ### 📌 Overview
 Week 2 was entirely dedicated to the **Stack data structure**, progressing from **basic operations** to **advanced monotonic stack patterns** commonly asked in interviews.
 
----
-
 ### 🧱 Foundation Level – Must Do
 - Valid Parentheses  
 - Valid Parenthesis String  
@@ -86,14 +74,10 @@ Week 2 was entirely dedicated to the **Stack data structure**, progressing from 
 - Remove Outermost Parentheses  
 - Backspace String Compare  
 
----
-
 ### 🧠 Logic Building (Moderate)
 - Next Greater Element I  
 - Help Classmates *(GFG)*  
 - Min Stack *(O(1) getMin)*  
-
----
 
 ### ⚙️ Medium – Hard Stack Problems
 - Next Greater Element II *(Circular Array)*  
@@ -107,13 +91,9 @@ Week 2 was entirely dedicated to the **Stack data structure**, progressing from 
 - Longest Valid Parentheses  
 - Remove K Digits  
 
----
-
 ### 📚 Theory – Stack Applications
 - Infix, Prefix & Postfix Expressions  
 - Implement Stack using Array  
-
----
 
 ### 🎯 Learning Outcomes
 ✔ Deep understanding of stack behavior  
@@ -123,11 +103,86 @@ Week 2 was entirely dedicated to the **Stack data structure**, progressing from 
 
 ---
 
+## 📅 Week 3 – Queue & Simulation Problems
+
+### 📌 Overview
+Week 3 focused on **Queue data structures** with emphasis on **simulation-based**, **circular**, and **real-world inspired problems** commonly asked in interviews and online assessments.
+
+### 🧱 Problems Covered
+- Reveal Cards in Increasing Order  
+- Time Needed to Buy Tickets  
+- Find the Winner of the Circular Game  
+- Minimum Operations *(Queue Simulation)*  
+
+> 📂 Folder: `Week3_Queue`
+
+### 🧠 Concepts Practiced
+- Queue operations (FIFO)  
+- Simulation logic  
+- Circular queue traversal  
+- Efficient time management  
+
+### 🎯 Learning Outcomes
+✔ Strong grip on queue simulations  
+✔ Improved confidence in circular problems  
+✔ Prepared for linked list traversal logic  
+
+---
+
+## 📅 Week 4 – Linked List Mastery
+
+### 📌 Overview
+Week 4 is dedicated to **Linked Lists**, focusing on **pointer manipulation**, **in-place operations**, and **classic interview-level problems**.
+
+### 🧱 Problems Covered
+
+#### 📅 02-02-2026
+- Convert a Binary Number in a Linked List to an Integer *(LC 1290)*  
+- Delete the Middle Node of a Linked List *(LC 2095)*  
+- Minimum Pair Removal to Sort Array II  
+
+#### 📅 03-02-2026
+- Double a Number Represented as a Linked List *(LC 2816)*  
+- Steps to Make Array Non-decreasing *(LC 2289)*  
+- Next Greater Node in Linked List *(LC 1019)*  
+
+> 📂 Folder: `Week4_LinkedList`
+
+### 🧠 Concepts Practiced
+- Fast & Slow pointer technique  
+- Linked list traversal  
+- In-place updates  
+- Stack + linked list hybrid problems  
+
+### 🎯 Learning Outcomes
+✔ Excellent control over pointers  
+✔ Confidence in linked list interview questions  
+✔ Ready for Trees & Graphs  
+
+---
+
+## 🧪 OA (Online Assessment) – Company-wise Practice
+
+### 📌 Overview
+The **OA folder** contains **company-wise categorized problems**, practiced specifically for **online assessments, internships, and placement coding rounds**.
+
+### 🧠 Structure
+- Company-wise folders  
+- Recently asked OA questions  
+- DSA + logical problem mix  
+
+### 🎯 Goal
+✔ Crack online assessments efficiently  
+✔ Identify company-specific patterns  
+✔ Improve speed & accuracy  
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer"/>
 </p>
 
 <p align="center">
 ⭐ <b>Star this repository if you like structured DSA preparation</b><br/>
-<i>Upcoming weeks: Queue, Linked List, Trees, Graphs, DP</i>
+<i>Upcoming weeks: Trees, Graphs, DP, Tries</i>
 </p>
